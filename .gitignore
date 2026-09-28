@@ -2,4 +2,6 @@ __pycache__
 /.vscode
 /.cache
 /build
-/.DS_Store
+/.DS_Storedata/
+*.pid
+*.zip
